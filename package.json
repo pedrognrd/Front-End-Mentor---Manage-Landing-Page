@@ -14,5 +14,7 @@
   "dependencies": {
     "a11y-slider": "^0.4.22",
     "npm-git-install": "^0.3.0"
-  }
+  },
+
+  "homepage": "https://pedrognrd.github.io/Front-End-Mentor---Manage-Landing-Page/"
 }
