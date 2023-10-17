@@ -225,7 +225,7 @@ p[data-width="wide"] {
     z-index: 999;
   }
 
-  .primary-navigation {
+  .main-menu {
     display: none;
 
     position: fixed;
@@ -253,7 +253,7 @@ p[data-width="wide"] {
     font-weight: var(--fw-bold);
   }
 
-  .primary-navigation[data-visible] {
+  .main-menu[data-visible] {
     display: block;
   }
 
