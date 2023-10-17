@@ -271,6 +271,7 @@ p[data-width="wide"] {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    z-index: 2000;
   }
 
   .mobile-nav-toggle[aria-expanded="true"] {
